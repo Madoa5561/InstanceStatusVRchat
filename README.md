@@ -1,0 +1,2 @@
+# InstanceStatusVRchat
+参加中のインスタンスの状態をテキストに送信します
