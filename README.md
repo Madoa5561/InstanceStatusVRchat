@@ -20,6 +20,7 @@
 ## ライセンス
 このプロジェクトはMITライセンスの下で配布されています。詳細はLICENSEファイルをご覧ください。
 [MITライセンス](<https://github.com/Madoa5561/InstanceStatusVRchat/blob/main/LICENSE>)
+自作発言とかはやめてください
 
 ## 連絡先
 ご質問やフィードバックがありましたら、[Twitter](<https://x.com/shota5561>)までご連絡ください。
