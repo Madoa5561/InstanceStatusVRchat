@@ -8,8 +8,6 @@ import socket
 from pythonosc import udp_client
 from pythonosc import osc_message_builder
 
-#python3.12 -m PyInstaller jl_test.py --icon=infomation.ico -D -F
-
 class VRChatLogHandler(FileSystemEventHandler):
     def __init__(self):
         self.join_pattern = re.compile(r'\[Behaviour\] OnPlayerJoined (\S+) \(usr_\S+\)')
