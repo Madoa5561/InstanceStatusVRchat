@@ -1,6 +1,5 @@
 # InstanceStatusVRchat
 
-> [!TIPS]
 > `InstanceStatusVRchat`は、参加中のVRChatインスタンスの状態をテキスト形式で送信するツールです。このツールを使用することで、インスタンスの情報を手軽に確認できます。
 
 > [!CAUTION]
