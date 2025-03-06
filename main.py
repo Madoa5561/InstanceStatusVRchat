@@ -56,6 +56,8 @@ class VRChatLogHandler(FileSystemEventHandler):
                             if self.current_instance_uuid != uuid:
                                 self.current_instance_uuid = uuid
                                 self.joined_players.clear()
+                                self.last_join_player = None
+                                self.last_leave_player = None
                                 print(f"インスタンスが変更されました:UUID: {self.current_instance_uuid}")
                         if join_match:
                             player_name = join_match.group(1).strip()
